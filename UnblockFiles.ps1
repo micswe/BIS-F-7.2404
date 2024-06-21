@@ -1,0 +1,1 @@
+Get-ChildItem -Path 'C:\Program Files (x86)\Base Image Script Framework (BIS-F)' -Recurse | Unblock-File
